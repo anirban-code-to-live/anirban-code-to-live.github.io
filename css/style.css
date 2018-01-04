@@ -44,6 +44,21 @@ h2 {
     padding: 0px;
 }
 
+p {
+    color: #ffffff;
+    font-size: 1.7rem;
+    margin-top: 1%;
+}
+
+.one-third {
+   width: 30%;
+}
+
+.vertical-line {
+    border-left: 6px solid black;
+    height: 100px;
+}
+
 .logo {
     font-family: 'Monoton', cursive;
     color: lawngreen;
@@ -51,6 +66,10 @@ h2 {
 }
 
 .top {
+    padding-bottom: 5rem;
+}
+
+.middle {
     padding-bottom: 5rem;
 }
 
