@@ -67,7 +67,7 @@ body { font-family: Inconsolata, Helvetica, Arial, sans-serif; line-height: 1.5;
 
 h1, h2, h3, h4, h5, h6 { font-family: Inconsolata, Helvetica, sans-serif; font-weight: 900; line-height: 1.25; margin-top: 1em; margin-bottom: .5em; }
 
-p, dl, ol, ul { font-size: 0.9rem; margin-top: 0; margin-bottom: 1rem; }
+p, dl, ol, ul { font-size: 1rem; margin-top: 0; margin-bottom: 1rem; }
 
 ol, ul { padding-left: 2rem; }
 
@@ -554,7 +554,7 @@ div.equation { margin: 0.5rem 0; }
 .border-dashed-pink:hover { border-bottom-style: solid; text-decoration: none; color: #B509AC;}
 .border-dashed-black { border-bottom: 1px dashed #333; color: #333;}
 .border-dashed-black:hover { border-bottom-style: solid; text-decoration: none; color: #333; }
-.custom-text-style {font-size: 0.9rem; color: #333;}
+.custom-text-style {font-size: 1rem; color: #333;}
 
 .social-media-ul { margin: 10px 0 0 0; font-size: 1rem; list-style-type: none;}
 .social-media { display: inline-block;}
